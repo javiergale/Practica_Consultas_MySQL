@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuscadorRecyclerViewMySQl</string>
+    
+    <string name="URL_USUARIOS">localhost/php/ObtenerUsuarios.php</string>
+</resources>
